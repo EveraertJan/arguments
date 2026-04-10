@@ -2,7 +2,9 @@
   "title": "pensioenen",
   "nodes": [
     {
-      "connections": [],
+      "connections": [
+        "mntdw4txzdyy"
+      ],
       "id": "mnr8o42yu6bp",
       "parentId": null,
       "x": 400,
@@ -68,6 +70,30 @@
       "notes": "",
       "links": [],
       "type": "support"
+    },
+    {
+      "id": "mntdw4txzdyy",
+      "parentId": null,
+      "x": 650,
+      "y": 200,
+      "label": "De pensioenen zijn helemaal niet onbetaalbaar. Ze hebben de index dubbel gerekend!",
+      "notes": "",
+      "links": [],
+      "connections": [
+        "mntdx3w0wpuh"
+      ],
+      "type": "fallacy"
+    },
+    {
+      "id": "mntdx3w0wpuh",
+      "parentId": null,
+      "x": 650,
+      "y": 450,
+      "label": "NO",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
     }
   ]
 }
