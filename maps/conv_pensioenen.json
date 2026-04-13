@@ -1,0 +1,651 @@
+{
+  "title": "Pensioenen",
+  "nodes": [
+    {
+      "connections": [],
+      "id": "mnr8o42yu6bp",
+      "parentId": null,
+      "x": 350,
+      "y": 100,
+      "label": "Nee.. Nee.. De pensioenen zijn echt gewoon niet meer betaalbaar.",
+      "notes": "",
+      "links": [],
+      "type": "claim"
+    },
+    {
+      "connections": [
+        "mnx0c4elzdln"
+      ],
+      "id": "mnr9d97ajd1v",
+      "parentId": "mnr8o42yu6bp",
+      "x": 350,
+      "y": 248.5,
+      "label": "Hoe bedoel je?",
+      "notes": "",
+      "links": [],
+      "type": "objection"
+    },
+    {
+      "connections": [],
+      "id": "mnrcqsc7tihb",
+      "parentId": null,
+      "x": 2050,
+      "y": 48.5,
+      "label": "We laten mensen massaal op vervroegd pensioen. Dat\nis gewoon onhoudbaar. We leven langer, dus dan is het toch logisch dat we langer werken?",
+      "notes": "",
+      "links": [],
+      "type": "claim"
+    },
+    {
+      "connections": [],
+      "id": "mnrh7nxrknyz",
+      "parentId": "mnrcqsc7tihb",
+      "x": 2050,
+      "y": 200,
+      "label": "Helemaal niet, langer werken is gewoon ondoenbaar. ",
+      "notes": "",
+      "links": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx0c4elzdln",
+      "parentId": "mnr9d97ajd1v",
+      "x": 250,
+      "y": 450,
+      "label": "Dat hervormingen nodig zijn. In de jaren '90 waren er vier actieve mensen voor elke 65-plusser. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx0hsciv89p",
+      "parentId": "mnx0c4elzdln",
+      "x": 250,
+      "y": 600,
+      "label": "uhu...",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx0hz2f1n88",
+      "parentId": "mnx0hsciv89p",
+      "x": 250,
+      "y": 700,
+      "label": "Vandaag zijn dat er nog drie. En tegen\n2060 zal het cijfer zakken naar twee.' Dat is gewoon niet haalbaar! ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx0ig02q07m",
+      "parentId": "mnx0hz2f1n88",
+      "x": 250,
+      "y": 850,
+      "label": "Ja maar, dat is appelen met peren vergelijken! ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx0kr4nz1dz",
+      "parentId": "mnx0ig02q07m",
+      "x": 250,
+      "y": 950,
+      "label": "Dat snap ik niet?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx0kzef051l",
+      "parentId": "mnx0kr4nz1dz",
+      "x": 250,
+      "y": 1050,
+      "label": "De groep niet-actieven en de groep gepensioneerden zijn niet hetzelfde.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx0smnljf1i",
+      "parentId": "mnx0kzef051l",
+      "x": 250,
+      "y": 1150,
+      "label": "...",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx0st288kg0",
+      "parentId": "mnx0smnljf1i",
+      "x": 248.5,
+      "y": 1251.5,
+      "label": "Wat telt is de verhouding tussen werkenden en niet-werkenden: gepensioneerden, maar ook kinderen, werklozen, zieken en vrijwillig niet-werkenden. Dat heet de economische afhankelijkheidsratio. Die verhouding wijzigt nauwelijks.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx0tlvma15a",
+      "parentId": "mnx0st288kg0",
+      "x": 250,
+      "y": 1450,
+      "label": "...\n",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx0trwb81ry",
+      "parentId": "mnx0tlvma15a",
+      "x": 250,
+      "y": 1550,
+      "label": "Vandaag zijn er 11,7 miljoen inwoners in ons land waarvan 4,5 miljoen werkenden. Dat wil zeggen: 1,6 niet-werkende per werkende.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx0v3gdjskw",
+      "parentId": "mnx0trwb81ry",
+      "x": 250,
+      "y": 1650,
+      "label": "...",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx0vb6r1et5",
+      "parentId": "mnx0v3gdjskw",
+      "x": 250,
+      "y": 1750,
+      "label": "In 2070 zullen er volgens het Planbureau 12,9 miljoen inwoners zijn waarvan 5 miljoen werkenden. Dat zijn nog altijd 1,6 niet-werkende per werkende. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx0x1fet5h5",
+      "parentId": "mnx0hz2f1n88",
+      "x": -150,
+      "y": 850,
+      "label": "Haha gij stemt NV.A zeker?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx0yllwzdjx",
+      "parentId": "mnx0x1fet5h5",
+      "x": -150,
+      "y": 950,
+      "label": "Wat heeft dat er mee te maken?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx0zmvwg7bz",
+      "parentId": "mnx0yllwzdjx",
+      "x": -148.75,
+      "y": 1051.25,
+      "label": "Gewoon, das super rechts wat ge zegt. Pensioenen zijn gewoon noodzakelijk of vind ge da normaal misschien dat oude mensen in armoede leven?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx10x8t6s8a",
+      "parentId": "mnx0zmvwg7bz",
+      "x": -150,
+      "y": 1200,
+      "label": "Nee natuurlijk niet! Ik wil gewoon dat onze kinderen ook nog een pensioen hebben! Ik heb hier echt niet om gevraagd.. Dag!",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx2piynrb25",
+      "parentId": null,
+      "x": 1100,
+      "y": 100,
+      "label": "Sorry maar van welke organisatie ben jij?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "claim"
+    },
+    {
+      "id": "mnx2q4xz5mbc",
+      "parentId": "mnx2piynrb25",
+      "x": 1100,
+      "y": 200,
+      "label": "Ik ben van de PVDA. We doen vandaag een wijktocht met onze petitie tegen de pensioenhervorming van de regering.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx2tzoxa7un",
+      "parentId": "mnx2q4xz5mbc",
+      "x": 1100,
+      "y": 300,
+      "label": "De pensioenhervorming?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx2uadzynoh",
+      "parentId": "mnx2tzoxa7un",
+      "x": 1100,
+      "y": 400,
+      "label": "Ja de Arizona regering wil ons langer laten werken voor minder geld en wij zijn daar niet mee akkoord. Voor ons kan het anders.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx2uhj8vf6n",
+      "parentId": "mnx2piynrb25",
+      "x": 1500,
+      "y": 200,
+      "label": "Wij zijn de PVDA en komen over de revolutie spreken. Heb je 5 minuten?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx2v9yhky7l",
+      "parentId": "mnx2uhj8vf6n",
+      "x": 1500,
+      "y": 300,
+      "label": "WTF Ghahaha. Nene, daar heb ik geen tijd voor daag!!",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx2y3ejc251",
+      "parentId": "mnr9d97ajd1v",
+      "x": 700,
+      "y": 450,
+      "label": "Wel de pensioenuitgaven gaan in de komende decennia sneller stijgen dan in de meeste Europese landen.",
+      "notes": "",
+      "links": [],
+      "connections": [
+        "mnx5m1cwu0yn"
+      ],
+      "type": "support"
+    },
+    {
+      "id": "mnx2z83aokt7",
+      "parentId": "mnx2y3ejc251",
+      "x": 700,
+      "y": 750,
+      "label": "Wel, 5 landen in de EU geven nu al evenveel uit aan pensioenen, dan wat wij in 2050 zouden moeten uitgeven.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx303s0cxs5",
+      "parentId": "mnx2z83aokt7",
+      "x": 700,
+      "y": 850,
+      "label": "Hoezo?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx30etlpgde",
+      "parentId": "mnx303s0cxs5",
+      "x": 700,
+      "y": 950,
+      "label": "Momenteel geven we 11,4% van ons bbp uit aan pensioenen. Tegen 2050 zal dat 13,3% zijn. \n\nOostenrijk en Frankrijk spenderen nu al meer dan veertien procent, Italië en Griekenland zelfs meer dan vijftien procent van het bbp aan de pensioenen. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx4ks9ymmms",
+      "parentId": "mnx30etlpgde",
+      "x": 700,
+      "y": 1100,
+      "label": "mja ok...",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx4nm23n0kn",
+      "parentId": "mnx4ks9ymmms",
+      "x": 700,
+      "y": 1200,
+      "label": "Bovendien: de regering wil het defensiebudget de komende 10 jaar met 3,7% verhogen. Dat is dus bijna twee keer zoveel als de totale stijging van de pensioenen in de komende 50 jaar. En dan zouden de pensioenen onbetaalbaar zijn? Dat is compleet absurd.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx4oiwb87i8",
+      "parentId": "mnx4nm23n0kn",
+      "x": 700,
+      "y": 1400,
+      "label": "Ok, daarover heb je een punt.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx4qrblwge6",
+      "parentId": "mnx2uadzynoh",
+      "x": 1100,
+      "y": 500,
+      "label": "Heh ja 't zal wel zijn. Ik werk in Delhaize, dat ze daar maar eens komen werken, ze zullen snel merken dat het onmogelijk is om tot 67 te werken. Hoe doe ik mee?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx4zix1tbyh",
+      "parentId": "mnrh7nxrknyz",
+      "x": 2050,
+      "y": 300,
+      "label": "Das niet waar, in de laatste jaren is levensverwachting fameus gestegen. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx51as0pskt",
+      "parentId": "mnx4zix1tbyh",
+      "x": 2050,
+      "y": 400,
+      "label": "Het klopt dat de bevolking ouder wordt, maar de mens niet.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx528p7tvac",
+      "parentId": "mnx51as0pskt",
+      "x": 2050,
+      "y": 550,
+      "label": "Hoezo?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx52fkp4zf8",
+      "parentId": "mnx528p7tvac",
+      "x": 2050,
+      "y": 650,
+      "label": "Er zijn gewoon meer mensen die de kans krijgen om oud te worden door de afname van kindersterfte. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx5434baroa",
+      "parentId": "mnx52fkp4zf8",
+      "x": 2050,
+      "y": 798.5,
+      "label": "...",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5bf3e6utq",
+      "parentId": "mnx5434baroa",
+      "x": 2050,
+      "y": 900,
+      "label": "We leven dus niet veel langer. Het is dan ook logisch dat 84% zegt dat langer werken niet mogelijk is.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "objection"
+    },
+    {
+      "id": "mnx5cdlv6n0z",
+      "parentId": "mnx5bf3e6utq",
+      "x": 2050,
+      "y": 1050,
+      "label": "Ok, dat kan wel eens koppen.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5ea3igy7l",
+      "parentId": "mnrcqsc7tihb",
+      "x": 2450,
+      "y": 200,
+      "label": "Voor mij zouden ze zelfs van 50 op pensioen mogen!",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5ewvdixag",
+      "parentId": "mnx5ea3igy7l",
+      "x": 2450,
+      "y": 300,
+      "label": "Sorry, maar hoe ga je dat zelfs betalen?",
+      "notes": "",
+      "links": [],
+      "connections": [
+        "mnx5flkgjh6h"
+      ],
+      "type": "support"
+    },
+    {
+      "id": "mnx5fje3ep1r",
+      "parentId": "mnx5ewvdixag",
+      "x": 2450,
+      "y": 398.5,
+      "label": "Als ze de productiemiddelen in handen nemen kan alles. ",
+      "notes": "",
+      "links": [],
+      "connections": [
+        "mnx5gb3qfmdu"
+      ],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5flkgjh6h",
+      "parentId": null,
+      "x": 2800,
+      "y": 398.5,
+      "label": "Door de bourgeoisie te onteigenen. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5gb3qfmdu",
+      "parentId": null,
+      "x": 2450,
+      "y": 501.5,
+      "label": "Wat wil dat zelfs zeggen? Sorry, maar ik denk dat Bart gelijk heeft. De staatsschuld ontspoort en we moeten nu actie ondernemen. De tijden waarin sossen zoals jullie alle geld door deuren en ramen konden gooien zijn voorbij.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5i76d4ltp",
+      "parentId": "mnx5flkgjh6h",
+      "x": 2800,
+      "y": 500,
+      "label": "*Roept in de verte* \"Politie, deze man valt me lastig!",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5j70ctzwc",
+      "parentId": "mnx5434baroa",
+      "x": 1700,
+      "y": 897,
+      "label": "We leven dus niet veel langer. Het is dan ook logisch dat 90% zegt dat langer werken niet mogelijk is.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5kl2kxag2",
+      "parentId": "mnx5434baroa",
+      "x": 2401.5,
+      "y": 900,
+      "label": "We leven dus niet veel langer. Het is dan ook logisch dat 56% zegt dat langer werken niet mogelijk is.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5l3aoewlu",
+      "parentId": "mnx5kl2kxag2",
+      "x": 2400,
+      "y": 1050,
+      "label": "Sorry maar daar geloof ik niets van..",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5lchrfp6j",
+      "parentId": "mnx5j70ctzwc",
+      "x": 1700,
+      "y": 1050,
+      "label": "Sorry, maar jullie cijfers zijn gewoon niet te vertrouwen. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5m1cwu0yn",
+      "parentId": null,
+      "x": 1050,
+      "y": 750,
+      "label": "Wel, 10 landen in de EU geven nu al evenveel uit aan pensioenen, dan wat wij in 2050 zouden moeten uitgeven.",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5me54mm3x",
+      "parentId": "mnx5m1cwu0yn",
+      "x": 1050,
+      "y": 850,
+      "label": "En welke landen zijn dat dan?",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5mp3cd2yq",
+      "parentId": "mnx5me54mm3x",
+      "x": 1050,
+      "y": 950,
+      "label": "Wel: Nederland, Denemarken....",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5n3h2r5bu",
+      "parentId": "mnx5mp3cd2yq",
+      "x": 1050,
+      "y": 1050,
+      "label": "Zie ik weet gewoon dat in Denemarken ze veel minder uitgeven. Daar is de leeftijd zelfs 70, jij leugenaar!",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5on97v9e7",
+      "parentId": "mnx0vb6r1et5",
+      "x": 250,
+      "y": 1900,
+      "label": "Ok, dat is zeker stof tot nadenken..",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    },
+    {
+      "id": "mnx5p09t6iq7",
+      "parentId": "mnx0v3gdjskw",
+      "x": -100,
+      "y": 1750,
+      "label": "In 2050 zullen er volgens het Planbureau 12,9 miljoen inwoners zijn waarvan 5 miljoen werkenden. Dat zijn nog altijd 1,6 niet-werkende per werkende. ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "fallacy"
+    },
+    {
+      "id": "mnx5pj2bkcf8",
+      "parentId": "mnx5p09t6iq7",
+      "x": -100,
+      "y": 1900,
+      "label": "Dus er gaan een 1,2 miljoen inwoners bijkomen op 20 jaar tijd? Dan hebben we wel andere problemen vrees ik.... Daag! ",
+      "notes": "",
+      "links": [],
+      "connections": [],
+      "type": "support"
+    }
+  ]
+}
